@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Language name="Vietnamese">
+    <mainForm>
+        <colTruck>Truck</colTruck>
+        <colTag>Tag</colTag>
+        <colNickname>Nickname trong game</colNickname>
+        <colGameID>Game ID</colGameID>
+        <groupOpen>Mở file log</groupOpen>
+        <btnOpen>Hôm nay</btnOpen>
+        <btnOpenYesterday>Hôm qua</btnOpenYesterday>
+        <btnOpenAnother>Ngày khác</btnOpenAnother>
+        <groupSearch>Tìm kiếm</groupSearch>
+        <btnOptions>Tùy chọn</btnOptions>
+        <btnExit>Thoát</btnExit>
+        <menuOpenProfile>Xem profile</menuOpenProfile>
+        <menuCopyName>Copy nickname</menuCopyName>
+        <menuCopyID>Copy ID</menuCopyID>
+    </mainForm>
+    <optionsForm>
+        <tabMain>Cơ bản</tabMain>
+        <tabAdv>Nâng cao</tabAdv>
+        <groupLanguage>Ngôn ngữ</groupLanguage>
+        <groupOptionSearch>Tùy chọn tìm kiếm</groupOptionSearch>
+        <chckById>Tìm theo ID</chckById>
+        <chckByTag>Tìm theo Tag</chckByTag>
+        <chckCCase>Phân biệt chữ hoa,thường</chckCCase>
+        <btnSave>Lưu</btnSave>
+        <groupRegLine>Quy tắc tìm kiếm</groupRegLine>
+        <lblRegAttention>Không thay đổi trừ khi bạn biết nó là gì!</lblRegAttention>
+        <btnRestore>Khôi phục quy tắc ban đầu</btnRestore>
+    </optionsForm>
+    <messages>
+        <msgNoFile>File log {0} không tồn tại!</msgNoFile>
+        <msgEnterToRegLine>Chú ý, chuỗi này có thể làm chương trình hoạt động không chính xác!</msgEnterToRegLine>
+    </messages>
+</Language>
